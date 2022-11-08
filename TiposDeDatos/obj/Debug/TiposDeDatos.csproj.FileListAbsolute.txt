@@ -1,8 +1,0 @@
-C:\gemaakt\helloWorld\TiposDeDatos\bin\Debug\TiposDeDatos.exe.config
-C:\gemaakt\helloWorld\TiposDeDatos\bin\Debug\TiposDeDatos.exe
-C:\gemaakt\helloWorld\TiposDeDatos\bin\Debug\TiposDeDatos.pdb
-C:\gemaakt\helloWorld\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.AssemblyReference.cache
-C:\gemaakt\helloWorld\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.SuggestedBindingRedirects.cache
-C:\gemaakt\helloWorld\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.CoreCompileInputs.cache
-C:\gemaakt\helloWorld\TiposDeDatos\obj\Debug\TiposDeDatos.exe
-C:\gemaakt\helloWorld\TiposDeDatos\obj\Debug\TiposDeDatos.pdb

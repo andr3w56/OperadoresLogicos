@@ -1,8 +1,0 @@
-C:\gemaakt\helloWorld\incrementoDecremento\obj\Debug\incrementoDecremento.csproj.AssemblyReference.cache
-C:\gemaakt\helloWorld\incrementoDecremento\obj\Debug\incrementoDecremento.csproj.SuggestedBindingRedirects.cache
-C:\gemaakt\helloWorld\incrementoDecremento\obj\Debug\incrementoDecremento.csproj.CoreCompileInputs.cache
-C:\gemaakt\helloWorld\incrementoDecremento\bin\Debug\incrementoDecremento.exe.config
-C:\gemaakt\helloWorld\incrementoDecremento\bin\Debug\incrementoDecremento.exe
-C:\gemaakt\helloWorld\incrementoDecremento\bin\Debug\incrementoDecremento.pdb
-C:\gemaakt\helloWorld\incrementoDecremento\obj\Debug\incrementoDecremento.exe
-C:\gemaakt\helloWorld\incrementoDecremento\obj\Debug\incrementoDecremento.pdb

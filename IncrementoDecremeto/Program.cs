@@ -20,12 +20,22 @@ namespace IncrementoDecremento
             Console.ReadKey();*/
 
             Random rnd = new Random();
-            int Aleatorio = rnd.Next(1, 12);
+            int Aleatorio = rnd.Next(1, 13);
 
             Console.WriteLine($"El numero random es: {Aleatorio}");
 
             string[] meses = {"Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", 
             "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"};
+
+            /*for (int i = 1; i <= 12; i++)
+            {
+                if (Aleatorio == i)
+                {
+                    Console.WriteLine(meses[i-1]);
+                }
+            }*/
+
+
             if (Aleatorio == 1)
             {
                 Console.WriteLine(meses[0]);

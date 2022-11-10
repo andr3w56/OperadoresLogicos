@@ -22,15 +22,15 @@ namespace logicsOperators
             Console.WriteLine("Ingresa tu nombre");
             string nombre = Console.ReadLine();
 
-            if (edad >= 18 && genero == "h")
+            if (edad >= 18 && (genero == "h" || genero == "H"))
             {
                 Console.WriteLine($"Hola señor {nombre}, eres mayor de edad y tienes {edad} años.");
             }
-            else if (edad < 18 && genero == "h")
+            else if (edad < 18 && (genero == "h" || genero == "H"))
             {
                 Console.WriteLine($"Hola joven {nombre} eres menor de edad y tiene {edad} años.");
             }
-            else if (edad >= 18 && genero == "m")
+            else if (edad >= 18 && (genero == "m" || genero == "M"))
             {
                 Console.WriteLine($"Hola señora {nombre}, eres mayor de edad y tienes {edad} años.");
             }

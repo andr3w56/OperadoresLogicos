@@ -30,6 +30,14 @@ namespace logicsOperators
             {
                 Console.WriteLine($"Hola joven {nombre} eres menor de edad y tiene {edad} años.");
             }
+            else if (edad >= 18 && genero == "m")
+            {
+                Console.WriteLine($"Hola señora {nombre}, eres mayor de edad y tienes {edad} años.");
+            }
+            else
+            {
+                Console.WriteLine($"Hola señorita {nombre}, eres mayor de edad y tienes {edad} años.");
+            }
 
         }
     }

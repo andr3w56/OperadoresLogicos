@@ -43,6 +43,16 @@ namespace logicsOperators
                 Console.WriteLine($"Hola señorita {nombre}, eres mayor de edad y tienes {edad} años.");
             }
 
+
+
+            if (!(edad >= 16 && edad <= 60))
+            {
+                Console.WriteLine("Tu edad no está entre 16 y 60 años, por lo tanto no puedes votar");
+            }
+            else
+            {
+                Console.WriteLine("Si puedes votar en las elecciones del 2023");
+            }
         }
     }
 }

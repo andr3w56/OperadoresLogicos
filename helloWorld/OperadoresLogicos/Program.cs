@@ -34,6 +34,10 @@ namespace logicsOperators
             {
                 Console.WriteLine($"Hola señora {nombre}, eres mayor de edad y tienes {edad} años.");
             }
+            else if ((genero != "h" || genero != "H") && (genero != "m" || genero != "M"))
+            {
+                Console.WriteLine("Genero Inválido.");
+            }
             else
             {
                 Console.WriteLine($"Hola señorita {nombre}, eres mayor de edad y tienes {edad} años.");

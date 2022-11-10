@@ -6,3 +6,11 @@ C:\gemaakt\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRed
 C:\gemaakt\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
 C:\gemaakt\helloWorld\helloWorld\obj\Debug\helloWorld.exe
 C:\gemaakt\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.AssemblyReference.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\helloWorld\obj\Debug\helloWorld.pdb

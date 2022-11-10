@@ -1,0 +1,8 @@
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\estudiante\Source\Repos\Trabajos-en-Cs\helloWorld\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
